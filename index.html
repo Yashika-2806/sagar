@@ -25,7 +25,8 @@
     <!-- ═══════════════════ NAVIGATION ═══════════════════ -->
     <nav class="navbar" id="navbar">
         <div class="logo hero-anim" style="--delay:0.1s">PS.</div>
-        <ul class="nav-links hero-anim" style="--delay:0.2s">
+        <div class="menu-toggle" id="mobile-menu"><i class="fa-solid fa-bars"></i></div>
+        <ul class="nav-links hero-anim" id="nav-links" style="--delay:0.2s">
             <li><a href="#about">About</a></li>
             <li><a href="#experience">Experience</a></li>
             <li><a href="#projects">Projects</a></li>
@@ -42,12 +43,13 @@
     <!-- ═══════════════════ HERO ═══════════════════ -->
     <header class="hero" id="home">
         <div class="container hero-content">
+            <h2 class="greeting hero-anim" style="--delay:0.1s">Transforming Ideas Into Reality</h2>
+
             <!-- Profile Picture -->
-            <div class="profile-photo-container hero-anim" style="--delay:0.1s">
-                <img src="images/profile.png" alt="Prashant Sagar" onerror="this.src='https://via.placeholder.com/200/1e293b/38bdf8?text=Add+profile.png'">
+            <div class="profile-photo-container hero-anim" style="--delay:0.3s">
+                <img src="images/my%20image.jpg" class="float-anim" alt="Prashant Sagar" onerror="this.src='https://via.placeholder.com/200/1e293b/38bdf8?text=Add+profile.png'">
             </div>
 
-            <h2 class="greeting hero-anim" style="--delay:0.3s">Transforming Ideas Into Reality</h2>
             <h1 class="name hero-anim" style="--delay:0.5s">Prashant Sagar</h1>
             <h3 class="title hero-anim" style="--delay:0.7s">AI/ML Engineer · Full-Stack Developer · Hackathon Champion</h3>
             <p class="tagline hero-anim" style="--delay:0.9s">
@@ -82,10 +84,6 @@
                     <p>I'm a driven <strong>AI/ML & Full-Stack Developer</strong> pursuing B.Tech in Computer Science with specialization in AI/ML & IoT at <strong>GLA University, Mathura</strong>. My mission is to bridge the gap between complex algorithms and real-world applications that solve genuine problems.</p>
                     <p>From winning <strong>hackathons against 300+ participants</strong> to deploying <strong>production-ready web platforms</strong> used by real students, I don't just learn — I build, ship, and iterate. My edge is the ability to work across the full spectrum: training ML models in Python, writing memory-efficient Java, and spinning up pristine MERN stack interfaces.</p>
                     <p>I have completed a <strong>100-Day Coding Challenge</strong>, solved <strong>291+ LeetCode problems</strong>, and earned certifications from <strong>Oracle, Meta, Infosys, and IBM</strong>.</p>
-                    <!-- About Section Image -->
-                    <div class="section-img-slot" data-aos="fade-up">
-                        <img src="images/about_me.png" alt="Prashant Sagar" onerror="this.parentElement.style.display='none'">
-                    </div>
                 </div>
                 <div class="about-stats glass-card tilt" data-aos="fade-left">
                     <h3>Focus Areas</h3>
@@ -161,7 +159,7 @@
                             <li>Earned Raspberry Pi & Python Certification for hands-on embedded systems work.</li>
                         </ul>
                         <div class="section-img-slot">
-                            <img src="images/exp_iot.png" alt="IoT Hardware" onerror="this.parentElement.style.display='none'">
+                            <img src="images/proj_cisco.jpg" alt="IoT Hardware" onerror="this.parentElement.style.display='none'">
                         </div>
                     </div>
                 </div>
@@ -231,7 +229,7 @@
                 <div class="project-card glass-card tilt" data-aos="fade-up" data-aos-delay="300">
                     <div class="project-img">
                         <div class="img-overlay"></div>
-                        <img src="images/algovisualizer.png" alt="Algorithm Visualizer" onerror="this.src='https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=600&h=400'">
+                        <img src="images/algorithm visualizer.png" alt="Algorithm Visualizer" onerror="this.src='https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=600&h=400'">
                     </div>
                     <div class="project-content">
                         <h3>Algorithm Visualizer <span>Intermediate</span></h3>
@@ -265,7 +263,7 @@
                 <div class="project-card glass-card tilt" data-aos="fade-up" data-aos-delay="150">
                     <div class="project-img">
                         <div class="img-overlay"></div>
-                        <img src="images/iot.png" alt="IoT Raspberry Pi" onerror="this.src='https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?auto=format&fit=crop&q=80&w=600&h=400'">
+                        <img src="images/proj_cisco.jpg" alt="IoT Raspberry Pi" onerror="this.src='https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?auto=format&fit=crop&q=80&w=600&h=400'">
                     </div>
                     <div class="project-content">
                         <h3>IoT Sensor Control <span>Hardware</span></h3>
@@ -289,6 +287,54 @@
                         <p class="project-desc">Built an automation project at GLA University that emerged victorious at the university exhibition, demonstrating innovative solutions in process automation and intelligent control systems.</p>
                         <div class="tech-stack">
                             <span>Automation</span><span>Hardware</span><span>IoT</span><span>Python</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project 7: Food Website -->
+                <div class="project-card glass-card tilt" data-aos="fade-up">
+                    <div class="project-img">
+                        <div class="img-overlay"></div>
+                        <img src="images/proj_food website.jpg" alt="Food Website">
+                    </div>
+                    <div class="project-content">
+                        <h3>Food Website <span>Frontend</span></h3>
+                        <p class="project-tagline">Interactive culinary platform</p>
+                        <p class="project-desc">A visually appealing and responsive food website showcasing culinary items, menus, and ordering interfaces with smooth animations.</p>
+                        <div class="tech-stack">
+                            <span>HTML</span><span>CSS</span><span>JavaScript</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project 8: Machine Learning -->
+                <div class="project-card glass-card tilt" data-aos="fade-up" data-aos-delay="150">
+                    <div class="project-img">
+                        <div class="img-overlay"></div>
+                        <img src="images/proj_machinelearning.jpg" alt="Machine Learning">
+                    </div>
+                    <div class="project-content">
+                        <h3>ML Predictor <span><i class="fa-solid fa-brain"></i> AI/ML</span></h3>
+                        <p class="project-tagline">Data analysis and predictions</p>
+                        <p class="project-desc">Trained machine learning models for predictive analytics. Handled data preprocessing, model selection, and performance evaluation metrics.</p>
+                        <div class="tech-stack">
+                            <span>Python</span><span>Scikit-Learn</span><span>Pandas</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project 9: Mood Detection -->
+                <div class="project-card glass-card tilt" data-aos="fade-up" data-aos-delay="300">
+                    <div class="project-img">
+                        <div class="img-overlay"></div>
+                        <img src="images/proj_mood detection.png" alt="Mood Detection">
+                    </div>
+                    <div class="project-content">
+                        <h3>Mood Detection <span>Computer Vision</span></h3>
+                        <p class="project-tagline">Real-time emotion recognition</p>
+                        <p class="project-desc">A computer vision application that detects facial expressions and predicts human emotions in real-time using deep learning techniques.</p>
+                        <div class="tech-stack">
+                            <span>OpenCV</span><span>TensorFlow</span><span>Python</span>
                         </div>
                     </div>
                 </div>
@@ -421,8 +467,8 @@
                     <div class="achievement-icon fire"><i class="fa-solid fa-fire"></i></div>
                     <h3>100/100 Day Coding Challenge</h3>
                     <p>Completed an intense <strong>100-day streak</strong> of consistent coding and problem-solving. Built discipline, sharpened DSA skills, and proved that consistency beats talent.</p>
-                    <div class="achievement-img-slot">
-                        <img src="images/100days.png" alt="100 Day Challenge" onerror="this.style.display='none'">
+                    <div class="achievement-img-slot pulse-anim">
+                        <img src="images/day 100 leetcode.jpg" alt="100 Day Challenge" onerror="this.style.display='none'">
                     </div>
                 </div>
 
@@ -458,7 +504,7 @@
 
                 <div class="cert-item glass-card hover-glow" data-aos="fade-up">
                     <div class="cert-img-wrapper">
-                        <img src="images/cert_oracle.png" alt="Oracle OCI 2025" onerror="this.src='https://via.placeholder.com/600x400/0f172a/0ea5e9?text=Oracle+OCI+2025'">
+                        <img src="images/certificate_hackathon 1st.jpg" alt="Oracle OCI 2025" onerror="this.src='https://via.placeholder.com/600x400/0f172a/0ea5e9?text=Oracle+OCI+2025'">
                         <div class="overlay-verify"><i class="fa-solid fa-certificate"></i><span>Verified</span></div>
                     </div>
                     <h4>Oracle Cloud Infrastructure 2025</h4>
@@ -501,14 +547,7 @@
                     <p>Database Architecture & Design</p>
                 </div>
 
-                <div class="cert-item glass-card hover-glow" data-aos="fade-up" data-aos-delay="100">
-                    <div class="cert-img-wrapper">
-                        <img src="images/cert_business.png" alt="Business Yoga" onerror="this.src='https://via.placeholder.com/600x400/0f172a/0ea5e9?text=Business+Yoga+Cert'">
-                        <div class="overlay-verify"><i class="fa-solid fa-certificate"></i><span>Verified</span></div>
-                    </div>
-                    <h4>Business Yoga Certification</h4>
-                    <p>Bada Business — Dr. Vivek Bindra</p>
-                </div>
+
 
             </div>
         </div>
@@ -524,9 +563,6 @@
                 <h4>Specialization: AI/ML & IoT</h4>
                 <p class="edu-university">GLA University, Mathura, Uttar Pradesh</p>
                 <p class="edu-year">2023 – 2027 (Expected)</p>
-                <div class="section-img-slot" style="margin-top:2rem;">
-                    <img src="images/education.png" alt="GLA University" onerror="this.parentElement.style.display='none'">
-                </div>
             </div>
         </div>
     </section>
