@@ -1,0 +1,468 @@
+🚀 Hands-on Experience in Generative AI & Agentic AI
+Recently, I had the opportunity to attend an intensive workshop on Generative AI and Agentic AI, and it turned out to be a highly practical and insightful experience.
+🔹 What I explored during the workshop:
+🧠 Fundamentals of Generative AI models and how they work in real-world applications
+🤖 Concepts of Agentic AI — building systems that can think, decide, and act autonomously
+🛠️ Hands-on experience with multiple tools, libraries, and AI frameworks
+⚙️ Built and experimented with AI agents and generative models
+🔗 Learned how to integrate AI into workflows for solving real problems
+🔹 Key Takeaways:
+Understanding how to move from static AI models → intelligent agents
+Importance of structured prompts, context handling, and orchestration
+Practical exposure to building end-to-end AI-powered solutions
+A big thank you to Tarang Nigam Sir for conducting such an engaging and knowledge-packed workshop. The way complex concepts were broken down into practical implementations made it extremely valuable.
+💡 This experience has strengthened my interest in building AI-driven systems and autonomous solutions, and I’m excited to apply these learnings in real-world projects like Sentinel AI.
+Looking forward to building more in this space 🚀
+hashtag#GenerativeAI hashtag#AgenticAI hashtag#ArtificialIntelligence hashtag#AIWorkshop hashtag#Learning hashtag#Innovation hashtag#AIDevelopment
+
+
+
+
+🚀 From Idea to Automation: Building AI-Powered Email Workflows
+Excited to share a recent hands-on implementation where I integrated Gmail + Anthropic Claude + JSON parsing + intelligent routing into a fully automated workflow ⚡
+🔹 What this system does:
+📩 Watches incoming emails in real-time
+📎 Extracts attachments and relevant data
+🧠 Processes the content using AI (Claude)
+🔄 Converts responses into structured JSON
+🚦 Routes outputs dynamically based on conditions
+📤 Sends automated, context-aware email responses
+🔹 Tech Breakdown:
+Gmail API for event-driven triggers
+Anthropic Claude for intelligent text processing
+JSON parsing for structured data transformation
+Router logic for decision-based automation
+🔹 Why this matters:
+This is a step towards building AI-driven autonomous systems — where workflows don’t just execute tasks, but understand, decide, and act intelligently.
+🔹 Key Learnings:
+Designing event-driven architectures
+Handling real-time data pipelines
+Structuring AI outputs for production use
+Building scalable automation workflows
+🔹 What’s next:
+Enhancing decision logic with more advanced AI reasoning
+Integrating this into larger systems like Sentinel AI
+Moving towards fully autonomous agents handling real-world tasks
+💡 This is just one piece of a bigger vision — building systems that think, not just run.
+If you're working on AI automation, agents, or backend systems, let’s connect 🤝
+hashtag#AI hashtag#Automation hashtag#ArtificialIntelligence hashtag#SystemDesign hashtag#BackendDevelopment hashtag#ClaudeAI hashtag#GmailAPI hashtag#SentinelAI
+
+
+
+
+
+
+
+🚀 Building Sentinel AI – Progress Update
+Over the past few weeks, I’ve been deeply focused on developing Sentinel AI, and I’m excited to share the progress so far.
+🔹 What we’re building:
+Sentinel AI is designed as an intelligent system that goes beyond traditional automation — combining AI, backend systems, and scalable architecture to create a powerful, real-world solution.
+🔹 Key Progress So Far:
+⚙️ Designed and structured the core system architecture (Frontend + Backend + AI Engine + Workers)
+🧠 Initiated development of the AI engine, focusing on intelligent processing and decision-making
+🔗 Built initial backend APIs with a scalable Node.js + Express setup
+🗄️ Integrated databases and caching layers for efficient data handling
+⚡ Started working on async workers and queue systems for handling heavy tasks
+🎯 Defined the core features roadmap and execution strategy
+🔹 What I’m learning in the process:
+This journey is not just about building a product — it's about mastering:
+System Design at scale
+AI integration in real-world applications
+Backend optimization and architecture
+Debugging complex distributed systems
+🔹 What’s next:
+Implementing advanced AI-driven features
+Enhancing the dashboard & user experience
+Strengthening system reliability and performance
+Moving towards a production-ready version
+💡 This is just the beginning. Sentinel AI is evolving step by step, and I’m focused on building something impactful and technically strong.
+If you're working on AI systems, backend architecture, or scalable products — let’s connect and exchange ideas.
+hashtag#AI hashtag#MachineLearning hashtag#SystemDesign hashtag#BackendDevelopment hashtag#FullStack hashtag#Innovation hashtag#SentinelAI
+🚀 Building SentinelAI — An AI-Powered Log Intelligence Platform
+Modern systems generate thousands of logs every minute, but identifying the real issue behind failures is still a challenge. I started building SentinelAI to explore how AI can help developers and engineers quickly detect anomalies and understand the root cause of system failures.
+SentinelAI is designed to analyze application logs, detect unusual patterns, and provide insights that help developers diagnose problems faster.
+🔧 Tech Stack I'm Using
+• Python & FastAPI for backend APIs
+• Redis Streams for real-time log processing
+• MongoDB for storing logs and analysis results
+• Machine Learning (TF-IDF + Autoencoder) for anomaly detection
+• React for the monitoring dashboard
+• Docker for containerized deployment
+The goal is to build a system that can move from raw logs → anomaly detection → root cause insights → remediation guidance.
+Excited to keep improving it and learning along the way.
+More updates soon as the project evolves.
+This project is being developed under the guidance of my mentor, Preshit Desai
+#Department of CEA
+hashtag#AI hashtag#MachineLearning hashtag#SoftwareEngineering hashtag#Observability hashtag#Python
+Activate to view larger image,
+
+
+
+
+ Project Update | GLA University – Students Welfare Website
+ Visit it ---> https://gladsw.cloud/
+I’m excited to share that I’ve designed, developed, and deployed a dedicated Students Welfare website for GLA University, collaboratively built with my teammate YASHIKA SAPRA, as part of a real-world academic initiative.
+🔹 What makes this project special:
+🌐 Fully deployed and accessible (production-ready)
+🧩 Dynamic content handling using a backend-driven architecture
+🎨 Clean, responsive UI focused on student usability
+🏫 Centralized platform for student welfare information, updates, and resources
+⚙️ Designed with scalability in mind for future enhancements
+🔹 Tech Stack Used:
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js, Express
+Database: MongoDB
+Version Control & Deployment: Git, GitHub, Cloud deployment
+This project gave us strong hands-on exposure to full-stack development, real deployment challenges, and building software for actual users—not just academic demos.
+Big thanks to Yashika Sapra for the collaboration and teamwork throughout this project.
+ Open to feedback, suggestions, and new opportunities!
+hashtag#WebDevelopment hashtag#FullStackDevelopment hashtag#StudentProjects hashtag#RealWorldProjects hashtag#NodeJS hashtag#MongoDB hashtag#GLAUniversity hashtag#LearningByBuilding
+
+
+
+
+
+
+NOT MUCH SPECIAL BUT IT IS SPECIAL
+LeetCode Rewind 2025 — A Year of Consistency and Problem Solving
+2025 was about showing up consistently and strengthening my fundamentals in Data Structures and Algorithms.
+LeetCode 2025 at a glance:
+291 problems solved
+354 total submissions
+Easy: 128 | Medium: 81 | Hard: 22
+Daily Coding Challenge streaks maintained
+Global Contest Rank: 6,15,344
+This journey reinforced an important lesson: progress in problem-solving is built through discipline, not shortcuts. Each problem helped sharpen my logical thinking, edge-case handling, and ability to translate ideas into efficient code.
+As a B.Tech Computer Science student specializing in AIML & IoT, I am continuing to focus on:
+Core DSA mastery
+Interview-oriented problem solving
+Writing clean, efficient, and explainable solutions
+Looking forward to scaling this further in 2026 with deeper algorithmic thinking and stronger contest performance.
+If you’re on a similar DSA or placement journey, let’s connect and grow together.
+hashtag#LeetCode hashtag#DSA hashtag#ProblemSolving hashtag#SoftwareEngineering hashtag#Placements hashtag#Consistency hashtag#ComputerScience
+
+
+
+
+
+🚀 Thrilled to Share Our Mini Project! 🎬🎵
+I’m super excited to introduce our Movie & Song Recommendation System — a smart, mood-based recommendation web app developed as part of our mini project!
+🔗 Try it out here:
+ 👉 https://lnkd.in/gAud-amz
+💻 GitHub Repository:
+ 👉 https://lnkd.in/gPeG94Da
+This project was a truly enriching experience, and I want to extend my heartfelt gratitude to the amazing people who supported and guided us throughout:
+✨ Dr. Ram Manohar Nisarg NS Sir and Rahul Moriwal Sir — Thank you for being our panelists and for your valuable insights and feedback.
+ ✨ Yunis Lone Sir — Our mentor, whose guidance helped us shape and refine this project at every step.
+A huge shoutout to my wonderful teammates — we three built this together!
+ And special appreciation to Prashant sagar and SHIVANGI CHAHAR for their constant help, motivation, and support during the process. 🙌
+💡 I would love for you all to experience and test our recommendation system. Your suggestions and feedback will help us improve and grow!
+hashtag#MachineLearning hashtag#AI hashtag#WebDevelopment hashtag#RecommendationSystem hashtag#StudentProject hashtag#GLAUniversity hashtag#MiniProject hashtag#TechJourney hashtag#ProudMoment
+
+
+
+
+
+
+
+
+
+
+🔥 Day 100/100 – The Final Boss Level 🔥
+ Today I officially completed 100 days of consistency, confusion, caffeine, and coding.
+ At this point, even my laptop trusts that I won’t give up… unlike some people 😭😂
+These 100 days taught me three things:
+ 1️⃣ Hard work > Mood
+ 2️⃣ Consistency > Talent
+There were days I felt like a genius…
+ …and days I couldn’t even debug my own mood swings 💀😭
+ But showing up every day changed everything.
+If you’re reading this:
+ Start today.
+ Do it messy. Do it tired.
+ But DO IT.
+Because one day—you’ll look back and say:
+ “Shukr hai maine rukha nahi.” 💪🔥
+100 days done.
+ Now… NEXT LEVEL UNLOCKED. 🚀😤🔥
+
+
+
+
+
+🚀 "Consistency beats talent — when talent stops being consistent." 💪
+Today, I’ve crossed a small but meaningful milestone — 200 LeetCode questions solved! 🎯 Monu Kumar 
+This journey has been full of ups and downs — debugging endless loops, celebrating those green ticks, and learning something new with every problem. Each question taught me more than just logic; it taught me patience, problem-solving, and persistence.
+I still have a long way to go, but this 200 mark reminds me that every single question counts — every step forward adds up.
+Here’s to more problems, more learning, and more growth ahead! 🚀🔥
+hashtag#LeetCode hashtag#100DaysOfCode hashtag#DSA hashtag#ProgrammingJourney hashtag#Consistency hashtag#GrowthMindset
+
+
+
+
+
+
+I’m happy to share that I’ve obtained a new certification: Introduction to Front-End Development from Meta!
+!! Credentials & all are in my profile!!
+Activate to view larger image,
+No alternative text description for this image
+
+
+
+
+🌟 Exciting Milestone Unlocked! 🌟
+I’m thrilled to share that I have successfully completed the Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25) certification! ✅
+
+This certification marks a significant step in my cloud journey, reinforcing my understanding of:
+☁️ Core OCI services & architecture
+ 🔐 Cloud security and compliance essentials
+ ⚙️ OCI pricing, support, and operational models
+ 🚀 How enterprises are adopting Oracle Cloud to innovate and scale
+In today’s tech-driven world, cloud fluency is no longer optional — it’s a necessity. This learning experience helped me sharpen my fundamentals and gain insights that I’m excited to apply in real-world scenarios.
+💡 Whether you're starting out in cloud, switching from on-premise to cloud-native, or just curious about Oracle’s capabilities — I highly recommend diving into this foundational course.
+🙏 A big thanks to Oracle for providing accessible resources to upskill globally!
+hashtag#OracleCloud hashtag#OCI hashtag#CloudComputing hashtag#Certification hashtag#ContinuousLearning hashtag#CareerGrowth hashtag#TechJourney hashtag#1Z0108525 hashtag#CloudFoundations hashtag#OracleCertified hashtag#ProudMoment
+
+
+
+
+
+🌟 A Journey of Growth and Learning with Bada Business 🌟
+Looking back, one of the most impactful steps in my professional journey was completing the Business Yoga Certification from Bada Business by Dr. Vivek Bindra on June 20, 2021.
+This wasn’t just a certification—it was a transformative experience that introduced me to innovative strategies and practical tools to navigate real-world business challenges. It gave me insights that continue to shape my approach to problem-solving and decision-making even today.
+💡 Over the years, I’ve worked on AI, IoT, web development, data engineering, and have been deeply engaged in startup innovation. But learning from this program was a turning point—it taught me how to think beyond the obvious and approach challenges with clarity and confidence.
+🚀 Reflecting on this journey, I am immensely grateful for the knowledge and values that it instilled in me. Thank you to Dr. Vivek Bindra and the entire Bada Bussiness team for curating such a meaningful program.
+If you’re someone who believes in continuous learning and innovation, I’d love to connect and share ideas! Let’s grow and create something remarkable together. 🙌
+hashtag#BusinessYoga hashtag#BadaBusiness hashtag#VivekBindra hashtag#Leadership hashtag#ContinuousLearning hashtag#GrowthJourney hashtag#Innovation
+
+
+
+
+
+
+🌟 Hackathon Champions! 🌟
+
+Thrilled to share that my teammate and I secured the 1st position 🏆 in the hackathon organized by GLA University, competing against over 300 brilliant participants!
+
+The journey was nothing short of incredible – from brainstorming innovative solutions to coding late into the night, every moment tested our creativity, collaboration, and determination. 💡💻
+
+A big shoutout to the organizing team at GLA University for creating such an inspiring platform for young innovators to showcase their skills and bring ideas to life. 🙌
+
+Winning this hackathon has been a truly rewarding experience, and I’m grateful for the opportunity to learn, grow, and create alongside such talented peers. 🚀
+
+Here’s to more challenges, innovations, and victories ahead! 💪
+
+hashtag#HackathonWinner hashtag#Innovation hashtag#Teamwork hashtag#GLAUniversity hashtag#TechAchievement hashtag#Gratitude
+
+
+
+
+
+
+🌟 Grateful for the Opportunity to Learn and Grow! 🌟
+
+I recently had the privilege of attending Innovative Bharat 3.0, and what an enlightening experience it was! 🚀 The event was brimming with innovative ideas, inspiring sessions, and invaluable insights into the future of technology, entrepreneurship, and beyond.
+
+A heartfelt thanks to GLA University for providing me with this incredible opportunity to explore and learn from such a dynamic platform. 🙏 It’s moments like these that shape our perspectives and fuel our aspirations.
+
+From networking with industry experts to understanding the latest trends in innovation, every moment spent at the event was a step forward in my personal and professional growth. 💡
+
+Looking forward to applying these insights and continuing the journey of learning and contributing to the world of innovation. 🌟
+
+hashtag#InnovativeBharat hashtag#GLAUniversity hashtag#Learning hashtag#Growth hashtag#Innovation
+
+
+
+
+🌱 Expanding My Skillset with MongoDB! 🌱
+Excited to share that I'm diving into the world of NoSQL databases with MongoDB! 🚀 As I explore the fundamentals of document-based storage, schema design, and querying, I’m looking forward to understanding how MongoDB's flexibility can help solve real-world data challenges.
+From data handling to performance optimization, I believe MongoDB will be a valuable tool in my skillset as I grow in tech. Grateful for this learning journey and eager to connect with others who share a passion for NoSQL databases or who have insights to share! 💡
+hashtag#MongoDB hashtag#NoSQL hashtag#LearningJourne
+
+
+
+🌟 **Insightful Leadership Summit at GLA University!** 🌟
+
+I had the privilege of attending an incredible panel discussion on *"The Future of Jobs: Thriving in a Tech-Driven World"* at GLA University. This event was an eye-opener on the crucial role of **reskilling and upskilling** in the ever-evolving job market.
+
+The event included two powerful sessions:
+1️⃣ **Future of Jobs:** This session highlighted how technology is shaping the future of work and the essential skills required to stay relevant in an automated world.
+
+The panel featured insightful perspectives from top industry leaders in the **Future of Jobs** session:
+- Mr. Bhupendra Joshi- CHRO at VEE Technologies
+- Mr. Abinash Mohapatra - Head of Campus Recruitment and Relations at KPIT Technologies Ltd.
+- Mr. Bharat Rana - Head of HR at Windmoeller & Hoelscher Group
+- Mr. Sunil Tyagi- HR Head at Pentair Water India Pvt. Limited
+- Mr. @Mohammed Pahad - University Recruiting & Relation - India Lead at Microsoft
+ 
+2️⃣ **Generative AI:** The second session featured insights from:
+ - Mr. Subnesh Sharma - AVP - HR Strategy at VVDN Technologies Pvt. Ltd.
+ - Mr. Srinath Gururajarao - Senior Vice President - Human Resources at Simple Energy
+ - Ms. @monika singh - Human Resources Specialist at NCR Voyix, Gurugram
+ - Mr. Sujo J. - Director at Lenovo India Pvt. Ltd.
+ - Mr. Sachiin Sharma (He/Him) - Sr. VP & National Manager - TA & TM at AU Small Finance Bank
+
+A big thank you to GLA University and the esteemed speakers for sharing such valuable knowledge. Events like these are a reminder that learning is a lifelong journey! 💼📈 
+
+hashtag#LeadershipSummit hashtag#GLAUniversity hashtag#FutureOfWork hashtag#GenerativeAI hashtag#Reskilling hashtag#Upskilling hashtag#TechInnovation
+
+
+
+
+
+
+"Excited to share a recent accomplishment! 🎉 Just completed a project where I successfully connected and controlled LEDs and an IR sensor through Raspberry Pi. 💡🔌 This hands-on experience not only honed my technical skills but also deepened my understanding of hardware integration and IoT applications. Looking forward to more innovative projects ahead! hashtag#RaspberryPi hashtag#IoT hashtag#HardwareIntegration hashtag#TechProjects"
+
+
+
+
+
+
+
+
+
+
+🌟 Exciting News! 🌟
+
+🚀 I'm thrilled to announce a significant milestone in my web development journey: the creation of my very own website using the Bootstrap framework!
+
+💻 This project represents hours of dedication and learning as I delved into the intricacies of web design and development. Leveraging the power and versatility of Bootstrap, I've crafted a site that showcases not only my technical skills but also my passion for creating engaging online experiences.
+
+🛠️ While the website is currently in its development stage and not yet live, I'm eager to share some of its features and functionalities with you. From responsive layouts to sleek UI components, I've ensured that every aspect of the site is optimized for an exceptional user experience.
+
+✨ Stay tuned for updates as I work towards hosting the website and making it accessible to the public. I'm committed to refining and enhancing it over time, incorporating feedback and staying ahead of the curve in the ever-evolving world of web development.
+
+🌐 I'm incredibly proud of this project and grateful for the opportunity to expand my skills in this dynamic field. Thank you for being a part of this journey, and I look forward to sharing the completed website with you soon!
+
+hashtag#WebDevelopment hashtag#Bootstrap hashtag#WebsiteInProgress hashtag#StayTuned hashtag#PassionProject
+
+
+
+
+
+
+🎉 Excited to share that I emerged victorious in the IBM Technical Poster Presentation at GLAU! 🏆 It's an honor to have my work recognized among such talented peers. Special thanks to everyone who supported and believed in me throughout this journey. Looking forward to continuing to push boundaries and make impactful contributions in the tech world! hashtag#IBM hashtag#TechnicalPoster hashtag#GLAU hashtag#TechInnovation 🚀🔍YASHIKA SAPRA IBM Dr. Ram Manohar Nisarg NS Devendra Rathore
+
+
+
+
+
+
+
+🎉 Exciting News! 🎉
+
+I'm thrilled to announce that I've recently completed the Certificate of Raspberry Pi and Python! 🐍🥧
+
+This journey has been incredibly rewarding, filled with learning, challenges, and growth. Through this certification, I've deepened my understanding of Python programming language and its application in various domains, including projects involving Raspberry Pi, data science, IoT, automation, and more.
+
+I want to extend my gratitude to all the mentors, peers, and resources that have supported me throughout this journey. Your guidance and encouragement have been invaluable.
+
+With this newfound knowledge and skills, I'm eager to continue exploring new opportunities and contributing to projects that make a difference. The combination of Raspberry Pi and Python offers limitless possibilities, and I'm excited to leverage these tools to create innovative solutions and impact the world around us.
+
+Thank you to everyone who has been a part of this journey with me! Let's continue to learn, grow, and innovate together. 💡
+
+hashtag#Python hashtag#RaspberryPi hashtag#Certification hashtag#Programming hashtag#IoT hashtag#DataScience hashtag#Automation hashtag#Gratitude hashtag#LinkedInLearning
+
+
+
+
+
+🎉 Exciting News! 🚀 Thrilled to share that our automation project from GLA University emerged victorious at the exhibition! 🏆 Grateful for the incredible team effort that made this achievement possible. Special thanks to [Team Members' Names] for their dedication and hard work. Looking forward to more innovative collaborations ahead! hashtag#GLAUniversity hashtag#AutomationProject hashtag#TeamSuccess hashtag#InnovationChampions
+
+
+
+
+
+
+
+Excited to share a significant milestone on my learning journey! 🚀 Just earned four Python certificates from Infosys Springboard, showcasing my commitment to staying at the forefront of technology. Grateful for the valuable skills acquired and ready to apply them in real-world projects. Here's to continuous growth and embracing new challenges! 🌐🐍 hashtag#Python hashtag#Certifications hashtag#InfosysSpringboard hashtag#ProfessionalDevelopment GLA University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
